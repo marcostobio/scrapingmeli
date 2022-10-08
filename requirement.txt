@@ -3,3 +3,4 @@ bs4
 lxml
 pandas
 Flask==1.1.4
+gunicorn
